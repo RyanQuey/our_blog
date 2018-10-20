@@ -49,6 +49,10 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://thequeys.com/2018/10/20/October-Update/</loc>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://thequeys.com/2016/05/17/Action-Reflections/</loc>
     <priority>0.5</priority>
   </url>
@@ -153,6 +157,18 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://thequeys.com/tags/phnom-penh/</loc>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://thequeys.com/tags/reflection/</loc>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://thequeys.com/tags/travel/</loc>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://thequeys.com/tags/action-international-ministries/</loc>
     <priority>0.5</priority>
   </url>
@@ -178,6 +194,14 @@
   </url>
   <url>
     <loc>http://thequeys.com/2018/</loc>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://thequeys.com/2018/10/</loc>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://thequeys.com/2018/10/20/</loc>
     <priority>0.5</priority>
   </url>
   <url>
