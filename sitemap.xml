@@ -93,6 +93,10 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://thequeys.com/2019/04/17/April-Update/</loc>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://thequeys.com/404/</loc>
     <priority>0.5</priority>
   </url>
@@ -202,6 +206,18 @@
   </url>
   <url>
     <loc>http://thequeys.com/tags/easter/</loc>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://thequeys.com/2019/</loc>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://thequeys.com/2019/04/</loc>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://thequeys.com/2019/04/17/</loc>
     <priority>0.5</priority>
   </url>
   <url>
