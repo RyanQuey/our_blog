@@ -73,6 +73,10 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://thequeys.com/2019/09/15/September-Update/</loc>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://thequeys.com/2016/09/06/Sept/</loc>
     <priority>0.5</priority>
   </url>
@@ -205,11 +209,27 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://thequeys.com/tags/sports-ministry/</loc>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://thequeys.com/tags/mondulkiri/</loc>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://thequeys.com/tags/easter/</loc>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://thequeys.com/2019/</loc>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://thequeys.com/2019/09/</loc>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://thequeys.com/2019/09/15/</loc>
     <priority>0.5</priority>
   </url>
   <url>
