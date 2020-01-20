@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>http://thequeys.com/archives/page/2/</loc>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://thequeys.com/2016/01/17/</loc>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://thequeys.com/tags/page/2/</loc>
+    <loc>http://thequeys.com/archives/page/3/</loc>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://thequeys.com/page/2/</loc>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://thequeys.com/page/3/</loc>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://thequeys.com/archives/page/2/</loc>
     <priority>0.5</priority>
   </url>
   <url>
@@ -42,6 +42,10 @@
   </url>
   <url>
     <loc>http://thequeys.com/2016/12/31/Dec/</loc>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://thequeys.com/2020/01/20/January-Update/</loc>
     <priority>0.5</priority>
   </url>
   <url>
@@ -181,6 +185,18 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://thequeys.com/tags/sports-ministry/</loc>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://thequeys.com/tags/mondulkiri/</loc>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://thequeys.com/tags/christmas/</loc>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://thequeys.com/tags/perspective/</loc>
     <priority>0.5</priority>
   </url>
@@ -209,15 +225,19 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://thequeys.com/tags/sports-ministry/</loc>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://thequeys.com/tags/mondulkiri/</loc>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>http://thequeys.com/tags/easter/</loc>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://thequeys.com/2020/</loc>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://thequeys.com/2020/01/</loc>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://thequeys.com/2020/01/20/</loc>
     <priority>0.5</priority>
   </url>
   <url>
@@ -374,6 +394,18 @@
   </url>
   <url>
     <loc>http://thequeys.com/2016/01/</loc>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://thequeys.com/2016/01/17/</loc>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://thequeys.com/tags/page/2/</loc>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://thequeys.com/tags/page/3/</loc>
     <priority>0.5</priority>
   </url>
 </urlset>
