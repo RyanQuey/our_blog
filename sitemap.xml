@@ -57,6 +57,10 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://thequeys.com/2020/02/20/February-Update/</loc>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://thequeys.com/2018/10/20/October-Update/</loc>
     <priority>0.5</priority>
   </url>
@@ -102,6 +106,10 @@
   </url>
   <url>
     <loc>http://thequeys.com/2019/04/17/April-Update/</loc>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://thequeys.com/2020/06/01/June-Update/</loc>
     <priority>0.5</priority>
   </url>
   <url>
@@ -205,6 +213,10 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://thequeys.com/tags/thanksgiving/</loc>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://thequeys.com/tags/action-international-ministries/</loc>
     <priority>0.5</priority>
   </url>
@@ -229,7 +241,31 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://thequeys.com/tags/health/</loc>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://thequeys.com/tags/japan/</loc>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://thequeys.com/2020/</loc>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://thequeys.com/2020/06/</loc>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://thequeys.com/2020/06/01/</loc>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://thequeys.com/2020/02/</loc>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://thequeys.com/2020/02/20/</loc>
     <priority>0.5</priority>
   </url>
   <url>
