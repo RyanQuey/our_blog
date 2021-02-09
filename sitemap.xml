@@ -77,6 +77,10 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://thequeys.com/2021/02/08/February-Update/</loc>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://thequeys.com/2016/11/29/Nov/</loc>
     <priority>0.5</priority>
   </url>
@@ -237,6 +241,26 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://thequeys.com/tags/holidays/</loc>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://thequeys.com/tags/usa/</loc>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://thequeys.com/tags/seattle/</loc>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://thequeys.com/tags/los-angeles/</loc>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://thequeys.com/tags/sending-churches/</loc>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://thequeys.com/tags/easter/</loc>
     <priority>0.5</priority>
   </url>
@@ -246,6 +270,18 @@
   </url>
   <url>
     <loc>http://thequeys.com/tags/japan/</loc>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://thequeys.com/2021/</loc>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://thequeys.com/2021/02/</loc>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://thequeys.com/2021/02/08/</loc>
     <priority>0.5</priority>
   </url>
   <url>
