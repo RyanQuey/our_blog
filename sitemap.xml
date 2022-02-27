@@ -97,6 +97,10 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://thequeys.com/2022/02/08/February-Update/</loc>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://thequeys.com/2020/01/20/January-Update/</loc>
     <priority>0.5</priority>
   </url>
@@ -257,15 +261,27 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://thequeys.com/tags/phnom-penh-bible-school/</loc>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://thequeys.com/tags/provinces/</loc>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://thequeys.com/tags/parenting/</loc>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://thequeys.com/tags/preah-vihear/</loc>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://thequeys.com/tags/christmas/</loc>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://thequeys.com/tags/kampot/</loc>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://thequeys.com/tags/phnom-penh-bible-school/</loc>
     <priority>0.5</priority>
   </url>
   <url>
@@ -294,6 +310,18 @@
   </url>
   <url>
     <loc>http://thequeys.com/tags/easter/</loc>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://thequeys.com/2022/</loc>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://thequeys.com/2022/02/</loc>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://thequeys.com/2022/02/08/</loc>
     <priority>0.5</priority>
   </url>
   <url>
