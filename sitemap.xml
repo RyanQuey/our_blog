@@ -21,6 +21,10 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://thequeys.com/gallery/</loc>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://thequeys.com/partnering-in-global-missions/</loc>
     <priority>0.5</priority>
   </url>
