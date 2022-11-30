@@ -57,6 +57,10 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://thequeys.com/2022/11/24/Ratanakiri/</loc>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://thequeys.com/2016/02/23/Sharing-in-ministry/</loc>
     <priority>0.5</priority>
   </url>
@@ -193,7 +197,7 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://thequeys.com/tags/sending_churches/</loc>
+    <loc>http://thequeys.com/tags/sending-churches/</loc>
     <priority>0.5</priority>
   </url>
   <url>
@@ -202,6 +206,18 @@
   </url>
   <url>
     <loc>http://thequeys.com/tags/missions/</loc>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://thequeys.com/tags/ratanakiri/</loc>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://thequeys.com/tags/teaching/</loc>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://thequeys.com/tags/provinces/</loc>
     <priority>0.5</priority>
   </url>
   <url>
@@ -273,15 +289,7 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://thequeys.com/tags/sending-churches/</loc>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>http://thequeys.com/tags/orientation/</loc>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://thequeys.com/tags/work/</loc>
     <priority>0.5</priority>
   </url>
   <url>
@@ -290,10 +298,6 @@
   </url>
   <url>
     <loc>http://thequeys.com/tags/phnom-penh-bible-school/</loc>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://thequeys.com/tags/provinces/</loc>
     <priority>0.5</priority>
   </url>
   <url>
@@ -325,10 +329,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://thequeys.com/tags/teaching/</loc>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>http://thequeys.com/tags/baby/</loc>
     <priority>0.5</priority>
   </url>
@@ -342,6 +342,14 @@
   </url>
   <url>
     <loc>http://thequeys.com/2022/</loc>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://thequeys.com/2022/11/</loc>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://thequeys.com/2022/11/24/</loc>
     <priority>0.5</priority>
   </url>
   <url>
@@ -626,6 +634,10 @@
   </url>
   <url>
     <loc>http://thequeys.com/archives/page/4/</loc>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://thequeys.com/tags/cambodia/page/2/</loc>
     <priority>0.5</priority>
   </url>
 </urlset>
