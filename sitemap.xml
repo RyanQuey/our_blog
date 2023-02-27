@@ -105,6 +105,10 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://thequeys.com/2023/02/18/Christ-will-build/</loc>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://thequeys.com/2019/09/15/September-Update/</loc>
     <priority>0.5</priority>
   </url>
@@ -338,6 +342,18 @@
   </url>
   <url>
     <loc>http://thequeys.com/tags/easter/</loc>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://thequeys.com/2023/</loc>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://thequeys.com/2023/02/</loc>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://thequeys.com/2023/02/18/</loc>
     <priority>0.5</priority>
   </url>
   <url>
