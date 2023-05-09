@@ -45,6 +45,10 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://thequeys.com/2023/04/22/Spring/</loc>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://thequeys.com/2022/09/05/praise-God-for-provision/</loc>
     <priority>0.5</priority>
   </url>
@@ -193,6 +197,18 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://thequeys.com/tags/phnom-penh-bible-school/</loc>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://thequeys.com/tags/phnom-penh/</loc>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://thequeys.com/tags/teaching/</loc>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://thequeys.com/tags/tent-making/</loc>
     <priority>0.5</priority>
   </url>
@@ -214,10 +230,6 @@
   </url>
   <url>
     <loc>http://thequeys.com/tags/ratanakiri/</loc>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://thequeys.com/tags/teaching/</loc>
     <priority>0.5</priority>
   </url>
   <url>
@@ -265,10 +277,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://thequeys.com/tags/phnom-penh/</loc>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>http://thequeys.com/tags/health/</loc>
     <priority>0.5</priority>
   </url>
@@ -298,10 +306,6 @@
   </url>
   <url>
     <loc>http://thequeys.com/tags/sports-ministry/</loc>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://thequeys.com/tags/phnom-penh-bible-school/</loc>
     <priority>0.5</priority>
   </url>
   <url>
@@ -346,6 +350,14 @@
   </url>
   <url>
     <loc>http://thequeys.com/2023/</loc>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://thequeys.com/2023/04/</loc>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://thequeys.com/2023/04/22/</loc>
     <priority>0.5</priority>
   </url>
   <url>
