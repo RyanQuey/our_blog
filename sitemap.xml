@@ -133,6 +133,10 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://thequeys.com/2023/08/22/Rainy-Season/</loc>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://thequeys.com/2021/10/06/October-Update/</loc>
     <priority>0.5</priority>
   </url>
@@ -325,6 +329,10 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://thequeys.com/tags/devotional/</loc>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://thequeys.com/tags/plovpit/</loc>
     <priority>0.5</priority>
   </url>
@@ -350,6 +358,14 @@
   </url>
   <url>
     <loc>http://thequeys.com/2023/</loc>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://thequeys.com/2023/08/</loc>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://thequeys.com/2023/08/22/</loc>
     <priority>0.5</priority>
   </url>
   <url>
