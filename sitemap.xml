@@ -213,6 +213,10 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://thequeys.com/tags/reflection/</loc>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://thequeys.com/tags/tent-making/</loc>
     <priority>0.5</priority>
   </url>
@@ -269,10 +273,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://thequeys.com/tags/reflection/</loc>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>http://thequeys.com/tags/rainy-season/</loc>
     <priority>0.5</priority>
   </url>
@@ -326,10 +326,6 @@
   </url>
   <url>
     <loc>http://thequeys.com/tags/kampot/</loc>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://thequeys.com/tags/devotional/</loc>
     <priority>0.5</priority>
   </url>
   <url>
