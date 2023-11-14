@@ -145,6 +145,10 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://thequeys.com/2023/11/10/Missionaries-send-Missionaries/</loc>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://thequeys.com/2021/07/21/July-Update/</loc>
     <priority>0.5</priority>
   </url>
@@ -337,6 +341,14 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://thequeys.com/tags/missiology/</loc>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://thequeys.com/tags/se-asia-impact/</loc>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://thequeys.com/tags/covid/</loc>
     <priority>0.5</priority>
   </url>
@@ -354,6 +366,14 @@
   </url>
   <url>
     <loc>http://thequeys.com/2023/</loc>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://thequeys.com/2023/11/</loc>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://thequeys.com/2023/11/10/</loc>
     <priority>0.5</priority>
   </url>
   <url>
