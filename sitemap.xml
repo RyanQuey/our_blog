@@ -53,6 +53,10 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://thequeys.com/2023/12/20/Trip-to-Steung-Treng-and-RTK/</loc>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://thequeys.com/2017/02/27/Feb/</loc>
     <priority>0.5</priority>
   </url>
@@ -241,6 +245,14 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://thequeys.com/tags/se-asia-impact/</loc>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://thequeys.com/tags/plovpit/</loc>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://thequeys.com/tags/ratanakiri/</loc>
     <priority>0.5</priority>
   </url>
@@ -333,19 +345,11 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://thequeys.com/tags/plovpit/</loc>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>http://thequeys.com/tags/evangelism/</loc>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://thequeys.com/tags/missiology/</loc>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://thequeys.com/tags/se-asia-impact/</loc>
     <priority>0.5</priority>
   </url>
   <url>
@@ -366,6 +370,14 @@
   </url>
   <url>
     <loc>http://thequeys.com/2023/</loc>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://thequeys.com/2023/12/</loc>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://thequeys.com/2023/12/20/</loc>
     <priority>0.5</priority>
   </url>
   <url>
@@ -698,6 +710,10 @@
   </url>
   <url>
     <loc>http://thequeys.com/tags/cambodia/page/2/</loc>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://thequeys.com/tags/phnom-penh/page/2/</loc>
     <priority>0.5</priority>
   </url>
 </urlset>
