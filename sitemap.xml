@@ -45,6 +45,10 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://thequeys.com/2024/04/12/First-quarter-2024/</loc>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://thequeys.com/2023/04/22/Spring/</loc>
     <priority>0.5</priority>
   </url>
@@ -209,15 +213,31 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://thequeys.com/tags/phnom-penh-bible-school/</loc>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>http://thequeys.com/tags/phnom-penh/</loc>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://thequeys.com/tags/teaching/</loc>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://thequeys.com/tags/phnom-penh-bible-school/</loc>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://thequeys.com/tags/steung-treng/</loc>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://thequeys.com/tags/field-ministry/</loc>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://thequeys.com/tags/kampong-chhnang/</loc>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://thequeys.com/tags/ratanakiri/</loc>
     <priority>0.5</priority>
   </url>
   <url>
@@ -253,7 +273,7 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://thequeys.com/tags/ratanakiri/</loc>
+    <loc>http://thequeys.com/tags/ratanakiri-pastors-institute/</loc>
     <priority>0.5</priority>
   </url>
   <url>
@@ -325,6 +345,10 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://thequeys.com/tags/ratanakiri-pastor-s-school/</loc>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://thequeys.com/tags/sports-ministry/</loc>
     <priority>0.5</priority>
   </url>
@@ -366,6 +390,18 @@
   </url>
   <url>
     <loc>http://thequeys.com/tags/easter/</loc>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://thequeys.com/2024/</loc>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://thequeys.com/2024/04/</loc>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://thequeys.com/2024/04/12/</loc>
     <priority>0.5</priority>
   </url>
   <url>
