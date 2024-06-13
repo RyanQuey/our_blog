@@ -129,6 +129,10 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://thequeys.com/2024/06/05/June/</loc>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://thequeys.com/2020/01/20/January-Update/</loc>
     <priority>0.5</priority>
   </url>
@@ -394,6 +398,14 @@
   </url>
   <url>
     <loc>http://thequeys.com/2024/</loc>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://thequeys.com/2024/06/</loc>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://thequeys.com/2024/06/05/</loc>
     <priority>0.5</priority>
   </url>
   <url>
