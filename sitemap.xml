@@ -113,6 +113,10 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://thequeys.com/2024/09/10/Sept/</loc>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://thequeys.com/2017/04/16/April/</loc>
     <priority>0.5</priority>
   </url>
@@ -345,6 +349,10 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://thequeys.com/tags/furlough/</loc>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://thequeys.com/tags/orientation/</loc>
     <priority>0.5</priority>
   </url>
@@ -398,6 +406,14 @@
   </url>
   <url>
     <loc>http://thequeys.com/2024/</loc>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://thequeys.com/2024/09/</loc>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://thequeys.com/2024/09/10/</loc>
     <priority>0.5</priority>
   </url>
   <url>
@@ -733,6 +749,10 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://thequeys.com/tags/page/5/</loc>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://thequeys.com/page/2/</loc>
     <priority>0.5</priority>
   </url>
@@ -745,6 +765,10 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://thequeys.com/page/5/</loc>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://thequeys.com/archives/page/2/</loc>
     <priority>0.5</priority>
   </url>
@@ -754,6 +778,10 @@
   </url>
   <url>
     <loc>http://thequeys.com/archives/page/4/</loc>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://thequeys.com/archives/page/5/</loc>
     <priority>0.5</priority>
   </url>
   <url>
